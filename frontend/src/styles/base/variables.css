@@ -1,29 +1,29 @@
 :root {
-  /* Fondos */
+   /* Fondos */
    --bg-main: #020617;
    --bg-surface: #04072B;
 
-  /* Texto */
+   /* Texto */
    --text-main: #E5E7EB;
    --text-muted: #9CA3AF;
 
-  /* Colores semánticos */
+   /* Colores semánticos */
    --color-primary: #00FFF7;
    --color-success: #00FFD0;
    --color-danger: #FF3300;
    --color-accent: #FF0048;
 
-  /* Grises */
+   /* Grises */
    --gray-100: #E5E7EB;
    --gray-400: #9CA3AF;
    --gray-700: #374151;
    --gray-900: #020617;
 
-  /* Azules suaves */
+   /* Azules suaves */
    --color-hover: #38BDF8;
    --color-focus: #0EA5E9;
 
-  /* Tipografía */
+   /* Tipografía */
    --font-title: 'Montserrat', sans-serif;
    --font-base: 'Inter', sans-serif;
 }
